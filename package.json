@@ -29,6 +29,7 @@
     "@types/node": "^16.11.2",
     "@vitejs/plugin-vue": "^1.9.3",
     "@vitejs/plugin-vue-jsx": "^1.2.0",
+    "@vitue/export-build-info": "^1.0.0",
     "@w6s/eslint-config": "^2.2.0",
     "@w6s/stylelint-config": "^1.5.0",
     "eslint": "^7.19.0",

@@ -10,6 +10,7 @@ import { viteVConsole } from 'vite-plugin-vconsole';
 import styleImport from 'vite-plugin-style-import';
 import vueI18n from '@intlify/vite-plugin-vue-i18n';
 import svgLoader from 'vite-svg-loader';
+import { ExportBuildInfo } from '@vitue/export-build-info';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -63,6 +64,9 @@ export default defineConfig({
 
     // https://github.com/AMatlash/vite-plugin-stylelint
     // viteStylelint(),
+
+    // https://github.com/vitue-scaffold/vite-plugin-export-build-info
+    ExportBuildInfo(),
   ],
   resolve: {
     alias: {
