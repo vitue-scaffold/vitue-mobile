@@ -11,13 +11,14 @@
     "lint:style": "stylelint \"**/*.{vue,css,scss,sass}\" \"!dist/**/*\""
   },
   "dependencies": {
+    "@icon-park/vue-next": "^1.3.5",
     "@vueuse/core": "^6.7.3",
-    "axios": "^0.23.0",
+    "axios": "^0.24.0",
     "pinia": "^2.0.0-rc.14",
     "vant": "^3.2.5",
     "vconsole": "^3.9.3",
     "vue": "^3.2.16",
-    "vue-i18n": "^9.2.0-beta.14",
+    "vue-i18n": "9.2.0-beta.14",
     "vue-router": "4",
     "vue-types": "^4.1.1"
   },
@@ -30,7 +31,7 @@
     "@vitejs/plugin-vue": "^1.9.3",
     "@vitejs/plugin-vue-jsx": "^1.2.0",
     "@vitue/export-build-info": "^1.0.0",
-    "@vitue/export-env-json": "^1.0.0",
+    "@vitue/export-env-json": "^1.0.1",
     "@w6s/eslint-config": "^2.2.0",
     "@w6s/stylelint-config": "^1.5.0",
     "eslint": "^7.19.0",

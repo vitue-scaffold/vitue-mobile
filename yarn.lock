@@ -487,6 +487,11 @@
   resolved "https://registry.npmmirror.com/@humanwhocodes/object-schema/download/@humanwhocodes/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha1-tSBSnsIdjllFoYUd/Rwy6U45/0U=
 
+"@icon-park/vue-next@^1.3.5":
+  version "1.3.5"
+  resolved "https://registry.nlark.com/@icon-park/vue-next/download/@icon-park/vue-next-1.3.5.tgz#4c9cbe6c77c4f4dadbe60fd26b86b10ed4ad186b"
+  integrity sha1-TJy+bHfE9Nrb5g/Sa4axDtStGGs=
+
 "@intlify/bundle-utils@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npmmirror.com/@intlify/bundle-utils/download/@intlify/bundle-utils-1.0.0.tgz#a2bf5a8292d32d6ca4a6df0d4e2d7c4441a580af"
@@ -511,15 +516,15 @@
     "@intlify/shared" "9.1.9"
     "@intlify/vue-devtools" "9.1.9"
 
-"@intlify/core-base@9.2.0-beta.18":
-  version "9.2.0-beta.18"
-  resolved "https://registry.npmmirror.com/@intlify/core-base/download/@intlify/core-base-9.2.0-beta.18.tgz?cache=0&sync_timestamp=1636542133157&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40intlify%2Fcore-base%2Fdownload%2F%40intlify%2Fcore-base-9.2.0-beta.18.tgz#12a970dc8e6a2344965ef6f7554cf02c31627df3"
-  integrity sha512-6Z7utRYt1WKfzXPFtSZGbFdWoReQgsL4vPpJpX4O50QqoDn40xZ6/9U+76hlOnLNvlx/R4QPaRyVfOk/yVVzcg==
+"@intlify/core-base@9.2.0-beta.14":
+  version "9.2.0-beta.14"
+  resolved "https://registry.npmmirror.com/@intlify/core-base/download/@intlify/core-base-9.2.0-beta.14.tgz?cache=0&sync_timestamp=1636542133157&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40intlify%2Fcore-base%2Fdownload%2F%40intlify%2Fcore-base-9.2.0-beta.14.tgz#b9d61338bfd103f4d87c81b96ca8e6aa56a619de"
+  integrity sha1-udYTOL/RA/TYfIG5bKjmqlamGd4=
   dependencies:
-    "@intlify/devtools-if" "9.2.0-beta.18"
-    "@intlify/message-compiler" "9.2.0-beta.18"
-    "@intlify/shared" "9.2.0-beta.18"
-    "@intlify/vue-devtools" "9.2.0-beta.18"
+    "@intlify/devtools-if" "9.2.0-beta.14"
+    "@intlify/message-compiler" "9.2.0-beta.14"
+    "@intlify/shared" "9.2.0-beta.14"
+    "@intlify/vue-devtools" "9.2.0-beta.14"
 
 "@intlify/core@^9.1.9":
   version "9.1.9"
@@ -535,12 +540,12 @@
   dependencies:
     "@intlify/shared" "9.1.9"
 
-"@intlify/devtools-if@9.2.0-beta.18":
-  version "9.2.0-beta.18"
-  resolved "https://registry.npmmirror.com/@intlify/devtools-if/download/@intlify/devtools-if-9.2.0-beta.18.tgz#9e329ad5f186fb35f9a85ab02bc8fa00c4522d50"
-  integrity sha512-ktaRBrLIT5HaMryiA5ItGDvph4qMTXXcdc87LfBc8bGJWxSzpTDAKacB4OmzrnoyaiQlrNV1MeUdd7J7GFRTcg==
+"@intlify/devtools-if@9.2.0-beta.14":
+  version "9.2.0-beta.14"
+  resolved "https://registry.npmmirror.com/@intlify/devtools-if/download/@intlify/devtools-if-9.2.0-beta.14.tgz#9223005817b202a024a127a561910103e3a77809"
+  integrity sha1-kiMAWBeyAqAkoSelYZEBA+OneAk=
   dependencies:
-    "@intlify/shared" "9.2.0-beta.18"
+    "@intlify/shared" "9.2.0-beta.14"
 
 "@intlify/message-compiler@9.1.9", "@intlify/message-compiler@^9.1.9":
   version "9.1.9"
@@ -551,12 +556,12 @@
     "@intlify/shared" "9.1.9"
     source-map "0.6.1"
 
-"@intlify/message-compiler@9.2.0-beta.18":
-  version "9.2.0-beta.18"
-  resolved "https://registry.npmmirror.com/@intlify/message-compiler/download/@intlify/message-compiler-9.2.0-beta.18.tgz?cache=0&sync_timestamp=1636542864812&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40intlify%2Fmessage-compiler%2Fdownload%2F%40intlify%2Fmessage-compiler-9.2.0-beta.18.tgz#3b70c98357e8e6314f77a1ca0f9dafbbdc660411"
-  integrity sha512-Slfskm4Pwee8g60gbYYAUPGiI1Ypm3VPpv1eLjdet9+oNxJ7gsEvMMJ47SzJqrLhviInnQ1KEUx+SRH07N3yWw==
+"@intlify/message-compiler@9.2.0-beta.14":
+  version "9.2.0-beta.14"
+  resolved "https://registry.npmmirror.com/@intlify/message-compiler/download/@intlify/message-compiler-9.2.0-beta.14.tgz?cache=0&sync_timestamp=1636542864812&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40intlify%2Fmessage-compiler%2Fdownload%2F%40intlify%2Fmessage-compiler-9.2.0-beta.14.tgz#32521877683fb8b625ad2f539bf61889adae5b94"
+  integrity sha1-MlIYd2g/uLYlrS9Tm/YYia2uW5Q=
   dependencies:
-    "@intlify/shared" "9.2.0-beta.18"
+    "@intlify/shared" "9.2.0-beta.14"
     source-map "0.6.1"
 
 "@intlify/message-resolver@9.1.9":
@@ -578,10 +583,10 @@
   resolved "https://registry.npmmirror.com/@intlify/shared/download/@intlify/shared-9.1.9.tgz#0baaf96128b85560666bec784ffb01f6623cc17a"
   integrity sha1-C6r5YSi4VWBma+x4T/sB9mI8wXo=
 
-"@intlify/shared@9.2.0-beta.18":
-  version "9.2.0-beta.18"
-  resolved "https://registry.npmmirror.com/@intlify/shared/download/@intlify/shared-9.2.0-beta.18.tgz#ab9ab5033db37c6c076cc474fb3e7b7526d2f673"
-  integrity sha512-1t3mebXtGQTYxfRz3W14/rGc2r8Laiunfx0oTafYKGo2sHzCeEvNhVAZXBPEKAyq2lWnfTlgsX3ACY8LKtyv/Q==
+"@intlify/shared@9.2.0-beta.14":
+  version "9.2.0-beta.14"
+  resolved "https://registry.npmmirror.com/@intlify/shared/download/@intlify/shared-9.2.0-beta.14.tgz#832a6789f0478f4b1b6443c293152fee1320dee0"
+  integrity sha1-gypnifBHj0sbZEPCkxUv7hMg3uA=
 
 "@intlify/vite-plugin-vue-i18n@^2.4.0":
   version "2.5.0"
@@ -603,13 +608,13 @@
     "@intlify/runtime" "9.1.9"
     "@intlify/shared" "9.1.9"
 
-"@intlify/vue-devtools@9.2.0-beta.18":
-  version "9.2.0-beta.18"
-  resolved "https://registry.npmmirror.com/@intlify/vue-devtools/download/@intlify/vue-devtools-9.2.0-beta.18.tgz#b10036fbc73eeea975f1f8c446922ffd6f91e5fe"
-  integrity sha512-gTjXtGSbht5t7geN53f/Ie8hQG7gs6UgwyN5c9LwcIL0wYm3ovWj9Z2Ud5XCrI57aMUd6XuQgrCmPj18hlrw0A==
+"@intlify/vue-devtools@9.2.0-beta.14":
+  version "9.2.0-beta.14"
+  resolved "https://registry.npmmirror.com/@intlify/vue-devtools/download/@intlify/vue-devtools-9.2.0-beta.14.tgz#0d3fef0966fe17f18c64e8a0fca244bf8e869f0f"
+  integrity sha1-DT/vCWb+F/GMZOig/KJEv46Gnw8=
   dependencies:
-    "@intlify/core-base" "9.2.0-beta.18"
-    "@intlify/shared" "9.2.0-beta.18"
+    "@intlify/core-base" "9.2.0-beta.14"
+    "@intlify/shared" "9.2.0-beta.14"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -850,10 +855,10 @@
     git-repo-info "^2.1.1"
     vite "^2.6.13"
 
-"@vitue/export-env-json@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmmirror.com/@vitue/export-env-json/download/@vitue/export-env-json-1.0.0.tgz#0dff7029f019b9f517703d581e1bf5eed50f1210"
-  integrity sha512-NJJb42lXhQe4vDN5nwacCV3e8TVcf9HU4fDLyNJ0FzbUP2Vh+YHgvTanu2g/6QnaAmuUgLlzsK/3Gk9WLQ6oHA==
+"@vitue/export-env-json@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmmirror.com/@vitue/export-env-json/download/@vitue/export-env-json-1.0.1.tgz#e762694e20b818dc4b0ccbfaa17480e714b7b287"
+  integrity sha512-zf0MnP5OsD/cVrLqw0sYSeQaZsyjPaNp+yAa+eNKU3KEaJezGFACe+5glUyc1826TTWqUyiTJjPwItvIuHo90g==
   dependencies:
     "@types/chalk" "^2.2.0"
     "@types/fs-extra" "^9.0.13"
@@ -1249,10 +1254,10 @@ autoprefixer@^9.8.6:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-axios@^0.23.0:
-  version "0.23.0"
-  resolved "https://registry.npmmirror.com/axios/download/axios-0.23.0.tgz?cache=0&sync_timestamp=1635213960429&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2Fdownload%2Faxios-0.23.0.tgz#b0fa5d0948a8d1d75e3d5635238b6c4625b05149"
-  integrity sha1-sPpdCUio0ddePVY1I4tsRiWwUUk=
+axios@^0.24.0:
+  version "0.24.0"
+  resolved "https://registry.npmmirror.com/axios/download/axios-0.24.0.tgz?cache=0&sync_timestamp=1635213960429&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2Fdownload%2Faxios-0.24.0.tgz#804e6fa1e4b9c5288501dd9dff56a7a0940d20d6"
+  integrity sha1-gE5voeS5xSiFAd2d/1anoJQNINY=
   dependencies:
     follow-redirects "^1.14.4"
 
@@ -4936,14 +4941,14 @@ vue-eslint-parser@^7.10.0:
     lodash "^4.17.21"
     semver "^6.3.0"
 
-vue-i18n@^9.2.0-beta.14:
-  version "9.2.0-beta.18"
-  resolved "https://registry.npmmirror.com/vue-i18n/download/vue-i18n-9.2.0-beta.18.tgz?cache=0&sync_timestamp=1636542135210&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fvue-i18n%2Fdownload%2Fvue-i18n-9.2.0-beta.18.tgz#481d6f03cbf6155bb9d1d9038ea037e127f59f44"
-  integrity sha512-yKc8OwUpVl0b//0V9fl/gUlnR8CUXff4vSAbBmqtcJKgGejXAOtwg56W20IEKqmfK3jmjzC67Jn8lgbbj2lMQA==
+vue-i18n@9.2.0-beta.14:
+  version "9.2.0-beta.14"
+  resolved "https://registry.npmmirror.com/vue-i18n/download/vue-i18n-9.2.0-beta.14.tgz?cache=0&sync_timestamp=1636542135210&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fvue-i18n%2Fdownload%2Fvue-i18n-9.2.0-beta.14.tgz#f36eb303c479901ca4124473413266ab5052a4f1"
+  integrity sha1-826zA8R5kBykEkRzQTJmq1BSpPE=
   dependencies:
-    "@intlify/core-base" "9.2.0-beta.18"
-    "@intlify/shared" "9.2.0-beta.18"
-    "@intlify/vue-devtools" "9.2.0-beta.18"
+    "@intlify/core-base" "9.2.0-beta.14"
+    "@intlify/shared" "9.2.0-beta.14"
+    "@intlify/vue-devtools" "9.2.0-beta.14"
     "@vue/devtools-api" "^6.0.0-beta.13"
 
 vue-router@4:
