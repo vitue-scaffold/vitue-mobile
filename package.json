@@ -2,8 +2,7 @@
   "projectName": "<%= name %>",
   "description": "<%= description %>",
   "author": "<%= author %>",
-  "name": "vite-project",
-  "version": "0.0.0",
+  "templateName": "vitue-mobile",
   "private": true,
   "scripts": {
     "dev": "vite",
